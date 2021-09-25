@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.InputDiv {
+  display: flex;
+}
+
+input {
+  width: 50vh;
+}
